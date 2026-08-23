@@ -1,0 +1,9 @@
+[submodule "RecordService"]
+	path = RecordService
+	url = https://github.com/DTY17/library-record-service.git
+[submodule "BookService"]
+	path = BookService
+	url = https://github.com/DTY17/library-book-service.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/DTY17/library-user-service.git
